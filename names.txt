@@ -12,4 +12,5 @@ romi9
 romi10
 romi f1 uj sor
 romi uj sor f2
+romi ujabb sor f1
 romi ujabb sor f2
