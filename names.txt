@@ -10,3 +10,4 @@ romi7.5
 romi8
 romi9
 romi10
+romi uj sor f2
